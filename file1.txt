@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6C88-8E7C
+
+ Directory of C:\Users\Fauzi\tuesday
+
+01/10/2019  15:25    <DIR>          .
+01/10/2019  15:25    <DIR>          ..
+01/10/2019  15:25                 0 file1.txt
+01/10/2019  15:24                 9 README.md
+               2 File(s)              9 bytes
+               2 Dir(s)  192.899.772.416 bytes free
